@@ -1,0 +1,2 @@
+# Wasi
+No thik ak 
